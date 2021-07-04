@@ -1,0 +1,82 @@
+{
+    "status": true,
+    "message": [],
+    "data": [
+        {
+            "category": [
+                {
+                    "_id": "605b09040650fe0d9087a564",
+                    "name": "Fruits",
+                    "shortName": "fruits",
+                    "img_url": "https://images.pexels.com/photos/1845662/pexels-photo-1845662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+                }
+            ],
+            "types": [
+                {
+                    "_id": "605b0bfc0650fe0d9087a56a",
+                    "name": "Pomes",
+                    "shortName": "Pomes",
+                    "img_url": "http://facsfinalproject.weebly.com/uploads/5/2/8/9/52892015/5783310.jpg?310"
+                }
+            ],
+            "stock": [
+                {
+                    "_id": "6065d714e23efa177c23e2eb",
+                    "sellingPrice": 100,
+                    "availableQty": 955
+                }
+            ],
+            "_id": "605b0c550650fe0d9087a56b",
+            "name": "Apple",
+            "shortName": "apple",
+            "title": "Apple",
+            "description": "apple",
+            "img_url": "https://images.pexels.com/photos/102104/pexels-photo-102104.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "unit": "kg",
+            "createdAt": "2021-03-24T09:54:29.675Z",
+            "updatedAt": "2021-04-01T14:22:12.912Z",
+            "__v": 1,
+            "cal": "1.388888",
+            "cal_unit": "gram",
+            "consumed": "0.6"
+        },
+        {
+            "category": [
+                {
+                    "_id": "605b09040650fe0d9087a564",
+                    "name": "Fruits",
+                    "shortName": "fruits",
+                    "img_url": "https://images.pexels.com/photos/1845662/pexels-photo-1845662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+                }
+            ],
+            "types": [
+                {
+                    "_id": "605b0bfc0650fe0d9087a56a",
+                    "name": "Pomes",
+                    "shortName": "Pomes",
+                    "img_url": "http://facsfinalproject.weebly.com/uploads/5/2/8/9/52892015/5783310.jpg?310"
+                }
+            ],
+            "stock": [
+                {
+                    "_id": "60669f482a9af020a875a010",
+                    "sellingPrice": 250,
+                    "availableQty": 10000
+                }
+            ],
+            "_id": "605b0c8e0650fe0d9087a56c",
+            "name": "Pear",
+            "shortName": "pear",
+            "title": "Pear",
+            "description": "pear",
+            "img_url": "https://images.pexels.com/photos/5945907/pexels-photo-5945907.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "unit": "kg",
+            "createdAt": "2021-03-24T09:55:26.058Z",
+            "updatedAt": "2021-04-02T04:36:24.098Z",
+            "__v": 2,
+            "cal": "0.59988",
+            "cal_unit": "gram",
+            "consumed": "2.5"
+        }
+    ]
+}
